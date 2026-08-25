@@ -1,6 +1,8 @@
 ### Hi World 👋, Hi Im Mauricio Gutiérrez Piedra
 #### Im new learning Programmer 
 
+Reliable and detail-oriented Tech Support Specialist and Logistics Professional with hands-on experience in computer maintenance, hardware troubleshooting, and office software operation. Strong technical background backed by certifications in Computer Maintenance & Repair and Microsoft Office. Known for honesty, efficiency, and a proactive approach, with additional experience in retail logistics, brand management, and point-of-sale operations. Fully bilingual in Spanish with B1 English proficiency, continuously expanding technical and language skill sets to deliver high-quality solutions.
+
 Skills: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Hobbies: ![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white) ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white) ![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
