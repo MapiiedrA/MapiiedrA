@@ -16,11 +16,7 @@ Search Engine FAV: ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MapiiedrA/MapiiedrA)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/MapiiedrA/MapiiedrA)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/MapiiedrA/MapiiedrA&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/MapiiedrA/MapiiedrA)  
 
 
 
