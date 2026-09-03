@@ -1,5 +1,5 @@
 ### Hi World 👋, Hi Im Mauricio Gutiérrez Piedra
-#### Im new learning Programmer and a technology enthusiast
+#### Im mid learning Programmer and a technology enthusiast
 
 Reliable and detail-oriented Tech Support Specialist and Logistics Professional with hands-on experience in computer maintenance, hardware troubleshooting, and office software operation. Strong technical background backed by certifications in Computer Maintenance & Repair and Microsoft Office. Known for honesty, efficiency, and a proactive approach, with additional experience in retail logistics, brand management, and point-of-sale operations. Fully bilingual in Spanish with B1 English proficiency, continuously expanding technical and language skill sets to deliver high-quality solutions.
 
@@ -9,7 +9,7 @@ Hobbies: ![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?
 
 Search Engine FAV: ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 
-- 🔭 I’m currently working on Student  
+- 🔭 I’m currently Student  
 - 🌱 I’m currently learning Python and Visual Code 
 - 📫 How to reach me: mapiedra3223@gmail.com 
 
