@@ -1,7 +1,7 @@
 ### Hi World 👋, Hi Im Mauricio Gutiérrez Piedra
 #### Im mid learning Programmer and a technology enthusiast
 
-Reliable and detail-oriented Tech Support Specialist and Logistics Professional with hands-on experience in computer maintenance, hardware troubleshooting, and office software operation. Strong technical background backed by certifications in Computer Maintenance & Repair and Microsoft Office. Known for honesty, efficiency, and a proactive approach, with additional experience in retail logistics, brand management, and point-of-sale operations. Fully bilingual in Spanish with B1 English proficiency, continuously expanding technical and language skill sets to deliver high-quality solutions.
+Reliable and detail-oriented Tech Support Specialist and Logistics Professional with hands-on experience in computer maintenance, hardware troubleshooting, and office software operation. Strong technical background backed by certifications in Computer Maintenance & Repair and Microsoft Office. Known for honesty, efficiency, and a proactive approach, with additional experience in retail logistics, brand management, and point-of-sale operations. Fully bilingual in Spanish with B1+ English proficiency, continuously expanding technical and language skill sets to deliver high-quality solutions.
 
 Skills: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
