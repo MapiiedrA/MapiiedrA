@@ -10,7 +10,7 @@ Hobbies: ![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?
 Search Engine FAV: ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 
 - 🔭 I’m currently Student  
-- 🌱 I’m currently learning Python and Visual Code 
+- 🌱 I’m currently learning Python and Visual Code, SQL and DJango
 - 📫 How to reach me: mapiedra3223@gmail.com 
 
 
