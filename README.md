@@ -29,8 +29,6 @@ My journey combines a solid foundation in **IT support, hardware troubleshooting
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Tools, AI & Infrastructure**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -46,7 +44,7 @@ My journey combines a solid foundation in **IT support, hardware troubleshooting
 | Repository | Description | Key Tech |
 | :--- | :--- | :--- |
 | 🐍 [**python-mastery-roadmap**](https://github.com/MapiiedrA/python-mastery-roadmap) | Comprehensive progression lab from Core Syntax to Django Backend, SQL, and AI Integrations. | `Python (Intermediate)` `Django` `SQL` `AI` |
-| 🧩 [**Retos-Logicos**](https://github.com/MapiiedrA/Retos-Logicos) | Algorithmic logic problems and data structure solutions to reinforce problem-solving. | `Python` `Logic` |
+| 🧩 [**python-coding-challenges**](https://github.com/MapiiedrA/python-coding-challenges) | Algorithmic logic problems and data structure solutions to reinforce problem-solving. | `Python` `Logic` |
 
 ---
 
@@ -54,16 +52,9 @@ My journey combines a solid foundation in **IT support, hardware troubleshooting
   <i>"Detail-oriented, proactive, and continuously pushing technical boundaries."</i>
 </p>
 
-Skills: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 Hobbies: ![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white) ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white) ![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 Search Engine FAV: ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
-
-- 🔭 I’m currently Student  
-- 🌱 I’m currently learning Python and Visual Code, SQL and DJango
-- 📫 How to reach me: mapiedra3223@gmail.com 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MapiiedrA/MapiiedrA)  
 
