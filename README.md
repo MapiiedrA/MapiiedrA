@@ -44,8 +44,8 @@ My journey combines a solid foundation in **IT support, hardware troubleshooting
 | Repository | Description | Key Tech |
 | :--- | :--- | :--- |
 | 🐍 [**python-mastery-roadmap**](https://github.com/MapiiedrA/python-mastery-roadmap) | Comprehensive progression lab from Core Syntax to Django Backend, SQL, and AI Integrations. | `Python (Intermediate)` `Django` `SQL` `AI` |
+| 🎵 [**discordbot-python-music**](https://github.com/MapiiedrA/discordbot-python-music) | Custom Discord music bot featuring slash commands, voice channel audio streaming, and YouTube integration. | `Python` `discord.py` `yt-dlp` `FFmpeg` |
 | 🧩 [**python-coding-challenges**](https://github.com/MapiiedrA/python-coding-challenges) | Algorithmic logic problems and data structure solutions to reinforce problem-solving. | `Python` `Logic` |
-
 ---
 
 <p align="center">
